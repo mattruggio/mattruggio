@@ -7,8 +7,12 @@
  \/  \/ \___|_|\___\___/|_| |_| |_|\___(_)                                      
 ````
 
-<div style="text-align: center">
-  <img src="octocat-1690426667604.png" alt="mattruggio" width="200" height="200">
+#### My Octocat
 
-  ![Visitor Count](https://profile-counter.glitch.me/mattruggio/count.svg)
-</div>
+  <img src="octocat-1690426667604.png" alt="mattruggio" width="200" height="200">
+</p>
+
+
+#### Visitor Counter
+
+![Visitor Count](https://profile-counter.glitch.me/mattruggio/count.svg)
