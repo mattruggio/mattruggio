@@ -6,3 +6,5 @@
 \  /\  /  __/ | (_| (_) | | | | | |  __/_|
  \/  \/ \___|_|\___\___/|_| |_| |_|\___(_)                                      
 ````
+
+![Visitor Count](https://profile-counter.glitch.me/mattruggio/count.svg)
