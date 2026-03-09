@@ -1,6 +1,6 @@
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  01001101 01100001 01110100 01110100                            ║
+║  01001101 01100001 01110100 01110100                             ║
 ║                                                                  ║
 ║  ███╗   ███╗ █████╗ ████████╗████████╗                           ║
 ║  ████╗ ████║██╔══██╗╚══██╔══╝╚══██╔══╝                           ║
@@ -22,16 +22,13 @@
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-
-
 #### 🧑‍💻 About Me
 
 - 🔭 I write software for a living and for fun
-- 👶 Writing code since age 10, back when my IDE was Notepad and my framework was "hope"
+- 👶 Writing code since age 10, back when my IDE was QBasic and my framework was "hope"
 - 🥤 Fueled by Diet Coke, pizza, and curiosity
 - 🎮 A completely average Warzone gamer who stumbled their way to Crimson ranking
 - 🏀 Formerly once a top 5 ranked NBA Live 2005 gamer
-
 
 ---
 
