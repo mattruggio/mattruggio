@@ -51,11 +51,10 @@
 ---
 
 <p align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=mattruggio&style=for-the-badge&color=38bdae&labelColor=1a1b27" />
+  <img src="90s.png" alt="90s" />
 </p>
 
 <p align="center">
-  <img src="90s.png" alt="90s" width="400" />
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=mattruggio&style=for-the-badge&color=38bdae&labelColor=1a1b27" />
 </p>
-
 
